@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "recallbackend",
+  "version": "1.0.0",
+  "description": "API backend that is express based for handling requests from our mobile app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dexter Stephens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
